@@ -8,7 +8,7 @@ ArchiRedst is a Minecraft map, where most of the buildings from Guide to Creativ
 # Why is "ArchiRedst"?
 I picked that name because of how "not bad" this name sounds in comparison to "CreatRedst" or something like that (right?). Also, I have these books in Ukrainian and while I smart enough to translate "red stone" ("червоний камень" on Ukrainian) to "redstone", I didn't even think about translating "architector" to "creative".
 
-# Why GitHub and not <insert here any Minecraft maps website>?
+# Why GitHub and not (insert here any Minecraft maps website)?
 I chose GitHub because of how easy it is to download versions for the map and "preserve" history of the map.
 
 # What can I do in ArchiRedst?
