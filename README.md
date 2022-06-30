@@ -12,4 +12,4 @@ I picked that name because of how "not bad" this name sounds in comparison to "C
 I chose GitHub because of how easy it is to download versions for the map and "preserve" history of the map.
 
 # What can I do in ArchiRedst?
-Well... You can do anything you want!
+Come on, once you download the map - you can do everything you want!
